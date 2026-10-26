@@ -1,5 +1,5 @@
 # 💫 About Me:
-## About Me : 💚<br><br>🔭 I’m currently working on **Beginner-friendly Web Development and System Design Projects**<br><br>👯 I’m looking to collaborate on **Open Source, Hackathons, and Beginner-friendly Projects**<br><br>🤝 I’m looking for help with **System Design Concepts, DSA, and Full-Stack Development**<br><br>🌱 I’m currently learning **Python, C++, React.js, System Design Fundamentals, and AI/ML**<br><br>💬 Ask me about **Python Basics, Web Development, System Design Fundamentals, and Tech Projects**<br><br>⚡ Fun fact: **I love turning simple ideas into practical projects while learning something new every day!** 🚀
+## <br><br>🔭 I’m currently working on **Beginner-friendly Web Development and System Design Projects**<br><br>👯 I’m looking to collaborate on **Open Source, Hackathons, and Beginner-friendly Projects**<br><br>🤝 I’m looking for help with **System Design Concepts, DSA, and Full-Stack Development**<br><br>🌱 I’m currently learning **Python, C++, React.js, System Design Fundamentals, and AI/ML**<br><br>💬 Ask me about **Python Basics, Web Development, System Design Fundamentals, and Tech Projects**<br><br>⚡ Fun fact: **I love turning simple ideas into practical projects while learning something new every day!** 🚀
 
 
 # 💻 Tech Stack:
