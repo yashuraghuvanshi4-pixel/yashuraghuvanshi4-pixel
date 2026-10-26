@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" fill="none">
+  <style>
+    .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #00ff66; }
+    .stat-number { font: 700 28px 'Segoe UI', Ubuntu, Sans-Serif; fill: #ffffff; }
+    .stat-number-green { font: 700 28px 'Segoe UI', Ubuntu, Sans-Serif; fill: #00ff66; filter: drop-shadow(0 0 6px rgba(0, 255, 102, 0.4)); }
+    .stat-label { font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #39d353; }
+    .stat-label-muted { font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #e6edf3; }
+    .date-range { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8b949e; }
+    .border-card { stroke: #30363d; stroke-width: 1; rx: 10; fill: #0d1117; }
+    .divider { stroke: #21262d; stroke-width: 1; }
+    .flame-glow { filter: drop-shadow(0 0 8px #00ff66); }
+  </style>
+
+  <!-- Background Card -->
+  <rect x="0.5" y="0.5" width="494" height="194" class="border-card" />
+
+  <!-- Dividers -->
+  <line x1="165" y1="25" x2="165" y2="170" class="divider" />
+  <line x1="330" y1="25" x2="330" y2="170" class="divider" />
+
+  <!-- Left: Total Contributions -->
+  <g transform="translate(82, 0)" text-anchor="middle">
+    <!-- Star icon -->
+    <path d="M 0 35 L 3 43 L 11 44 L 5 50 L 7 58 L 0 53 L -7 58 L -5 50 L -11 44 L -3 43 Z" fill="#39d353" />
+    <text x="0" y="92" class="stat-number-green">400</text>
+    <text x="0" y="118" class="stat-label">Total Contributions</text>
+    <text x="0" y="142" class="date-range">Nov 2, 2025 - Present</text>
+  </g>
+
+  <!-- Middle: Current Streak -->
+  <g transform="translate(247, 0)" text-anchor="middle">
+    <!-- Flame Icon -->
+    <g class="flame-glow">
+      <path d="M 0 32 C 4 38 9 44 9 52 C 9 60 4 64 0 64 C -4 64 -9 60 -9 52 C -9 46 -5 40 0 32 Z" fill="#00ff66" />
+      <path d="M 0 46 C 2 50 4 54 4 58 C 4 61 2 63 0 63 C -2 63 -4 61 -4 58 C -4 55 -2 52 0 46 Z" fill="#ffffff" />
+    </g>
+    <text x="0" y="92" class="stat-number">14</text>
+    <text x="0" y="118" class="stat-label-muted">Current Streak</text>
+    <text x="0" y="142" class="date-range">Oct 13 - Oct 26</text>
+  </g>
+
+  <!-- Right: Longest Streak -->
+  <g transform="translate(412, 0)" text-anchor="middle">
+    <!-- Lightning / Trophy Icon -->
+    <path d="M 2 33 L -6 47 L 0 47 L -2 61 L 6 47 L 0 47 Z" fill="#00ff66" />
+    <text x="0" y="92" class="stat-number-green">90</text>
+    <text x="0" y="118" class="stat-label">Longest Streak</text>
+    <text x="0" y="142" class="date-range">May 1 - Jul 30</text>
+  </g>
+</svg>
